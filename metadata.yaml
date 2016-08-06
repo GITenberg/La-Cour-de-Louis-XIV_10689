@@ -1,0 +1,30 @@
+_repo: La-Cour-de-Louis-XIV_10689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Imbert de Saint-Amand
+    aliases:
+    - Imbert de Saint-Amand, Arthur Léon, baron
+    - Imbert de Saint-Amand, Arthur Leon, baron
+    - Saint-Amand, Imbert de
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '1431'
+    url: http://www.gutenberg.org/2009/agents/1431
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10689'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcsh 'France -- Court and courtiers'
+- GITenberg
+title: La Cour de Louis XIV
+url: http://www.gutenberg.org/ebooks/10689
